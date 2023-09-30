@@ -124,7 +124,7 @@ github_project_repo = "https://github.com/google/docsy"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+gcs_engine_id = "66a51cb3989c5437e"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -157,8 +157,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/UrielOfir/personal-website">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/UrielOfir/personal-website">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
@@ -169,36 +169,27 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
-[[params.links.user]]
   name ="Twitter"
-  url = "https://example.org/twitter"
+  url = "https://twitter.com/OfirUriel"
   icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
+  desc = "Follow me on Twitter!"
 [[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+  name ="LinkedIn"
+  url = "https://www.linkedin.com/in/uriel-ofir-31672a278/"
+  icon = "fab fa-linkedin"
+  desc = "Follow me on LinkedIn!"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
+  name = "Facebook"
+  url = "https://www.facebook.com/urielofir86"
+  icon = "fab fa-facebook"
+  desc = "Follow me on Facebook!"
+
+[[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/urielofir"
   icon = "fab fa-github"
   desc = "Development takes place here!"
-[[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
-[[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
 
 # hugo module configuration
 
