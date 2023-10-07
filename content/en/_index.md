@@ -38,7 +38,7 @@ to create your own real websites with [Docsy](https://docsy.dev))
 
 
 {{% blocks/feature icon="fab fa-github" title="This site source-code!" url="https://github.com/UrielOfir/personal-website" %}}
-You are welocme to offer me ways to improve this website :)
+You are welcome to offer me ways to improve this website :)
 {{% /blocks/feature %}}
 
 
