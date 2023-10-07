@@ -5,9 +5,9 @@ title: Uriel Ofir
 {{< blocks/cover title="Welcome to Uriel Ofir's website" image_anchor="top" height="full" >}}
 <div style= "font-size:25px">
 
-I'm the founder of [Ma'akaf](https://maakaf-landing-page.netlify.app/), an Israeli open-source community, and a dedicated JavaScript developer. <br> I'm deeply passionate about the power of open source.
+I'm the founder of <a target="_blank" href="https://maakaf-landing-page.netlify.app/">Ma'akaf</a>, an Israeli open-source community, and a dedicated JavaScript developer. <br> I'm deeply passionate about the power of open source.
 
-My personal journey has taken me from a background in Jewish orthodoxy,<br> where I spent a decade studying in [Yeshivat Har Hamor](https://en.wikipedia.org/wiki/Har_Hamor), to a secular perspective.
+My personal journey has taken me from a background in Jewish orthodoxy,<br> where I spent a decade studying in <a target="_blank" href="https://en.wikipedia.org/wiki/Har_Hamor">Yeshivat Har Hamor</a>, to a secular perspective.
 
 Here on my website, you'll find a collection of my writings, videos, and podcasts, offering insights into my experiences and thoughts. Join me in exploring the intersection of technology, open source, and the diverse paths that shape our lives.
 </div> 
@@ -16,14 +16,14 @@ Here on my website, you'll find a collection of my writings, videos, and podcast
 {{< /blocks/cover >}}
 
 
-{{% blocks/lead color="primary" %}}
+{{< blocks/lead color="primary" >}}
 Goldydocs provides a single web UI providing visibility into porridge
 temperature, chair size, and bed softness metrics! You can even find out who's
 been eating **your** porridge.
 
 (Sadly, Goldydocs isn't a real project, but you can use this site as an example
 to create your own real websites with [Docsy](https://docsy.dev))
-{{% /blocks/lead %}}
+{{< /blocks/lead >}}
 
 {{% blocks/lead color="gray" %}}
 Goldydocs provides a single web UI providing visibility into porridge
@@ -51,10 +51,6 @@ For announcement of latest features etc.
 
 
 {{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
     url="https://github.com/google/docsy-example" %}}
