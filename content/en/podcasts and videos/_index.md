@@ -5,19 +5,10 @@ menu: {main: {weight: 20}}
 weight: 20
 type: "docs"
 ---
-## Interviews with Graduates of Religious Education in Israel
+I'm excited to share some of the cool podcasts and videos I've been up to.
 
-**About 'Where Did You Go?'**
+First, I've got my very own podcast called ["Where Did You Go?"](./where_did_you_go). In this podcast, I mainly interview graduates of religious education in Israel. It's a fun hobby of mine where we dive into their experiences and insights.
 
-My podcast, 'Where Did You Go?,' is a platform where I explore the stories of graduates from religious education in Israel. I'm passionate about uncovering the diverse paths that individuals take in life, and I believe that every journey has its unique lessons and insights. While my primary focus is on orthodox Jewish education in Israel, I'm always excited to chat with intriguing people who have distinctive experiences to share. Join me in discovering the stories that shape our world.
+But that's not all! I've also had the chance to be a guest on other podcasts. In those conversations, I've shared my life journey, talked about my thoughts on faith, and more.
 
-### Listen to the Podcast
-
-- <a href="https://podcasters.spotify.com/pod/show/hisway" target="_blank" rel="noopener noreferrer">The podcast homepage</a>
-
-
-- Available on other popular platforms like Apple Podcasts, Google Podcasts, and more.
-
-### Watch on YouTube
-
-- Some episodes are available on <a href="https://youtube.com/playlist?list=PLVJp0Icd_QJ9eQz9Q6PiNG4t98hRhHHpb&si=EB_20Nt12N3ppRZ8" target="_blank" rel="noopener noreferrer">YouTube playlist</a>.
+And if you're into videos, I've got you covered. You'll find various engaging videos, mainly lectures, where I'm a part of the discussion. Feel free to explore and learn more about my experiences and ideas. Enjoy your visit!
