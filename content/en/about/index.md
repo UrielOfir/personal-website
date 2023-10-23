@@ -66,7 +66,7 @@ one of the Israeli communities evacuated during Israel's 2005 disengagement plan
 
 {{% blocks/lead %}}
 
-<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/army.jpg" style="width: 25%"/>   
+<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/army.JPG" style="width: 25%"/>   
 
 **2012**   
 I completed a three-month service with <a target="_blank" href="https://en.wikipedia.org/wiki/Military_Rabbinate">the Military Rabbinate</a>   
