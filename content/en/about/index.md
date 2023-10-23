@@ -55,6 +55,7 @@ is dedicated to perpetuating the teachings and principles of
 {{% blocks/lead %}}
 
 **2009**   
+<img src="https://github.com/UrielOfir/personal-website/blob/main/assets/images/first_son.png?raw=true" style="width: 25%"/>
 My first son was born, and my family and I relocated to <a target="_blank" href="https://en.wikipedia.org/wiki/Bnei_Netzarim">Bnei-Netzrim</a>,   
 a moshav established by settlers from <a target="_blank" href="https://en.wikipedia.org/wiki/Netzarim">Netzarim</a>,   
 one of the Israeli communities evacuated during Israel's 2005 disengagement plan.

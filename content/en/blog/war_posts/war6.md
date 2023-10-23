@@ -8,7 +8,7 @@ description: >
 ---
 <div dir="rtl">
 
-<img src="https://github.com/UrielOfir/personal-website/blob/main/content/en/blog/war_posts/yediot_headline.png?raw=true" style="width: 100%"/>
+<img src="https://github.com/UrielOfir/personal-website/blob/main/assets/images/yediot_headline.png?raw=true" style="width: 100%"/>
 
 <br>
 <br>
