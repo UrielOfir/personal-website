@@ -61,6 +61,15 @@ one of the Israeli communities evacuated during Israel's 2005 disengagement plan
 
 {{% /blocks/lead %}}
 
+{{% blocks/lead %}}
+
+**2012**   
+I completed a three-month service with <a target="_blank" href="https://en.wikipedia.org/wiki/Military_Rabbinate">the Military Rabbinate</a>   
+while being married with three children,   
+and my wife was expecting another child.
+
+{{% /blocks/lead %}}
+
 {{% blocks/section %}}
 
 # This is another section
