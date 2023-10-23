@@ -8,7 +8,11 @@ description: >
 ---
 <div dir="rtl">
 
-<img src="./yediot_headline.png"/>
+<img src="https://github.com/UrielOfir/personal-website/blob/main/content/en/blog/war_posts/yediot_headline.png?raw=true" style="width: 100%"/>
+
+<br>
+<br>
+<br>
 
 הכותרת הזו בידיעות אחרונות מדאיגה אותי.
 
