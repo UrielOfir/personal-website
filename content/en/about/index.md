@@ -45,7 +45,7 @@ is dedicated to perpetuating the teachings and principles of
 {{% /blocks/lead %}}
 
 {{% blocks/lead %}}
-<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/maarige.jpg" style="width: 25%"/>   
+<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/marrige.jpg" style="width: 25%"/>   
 
 **2008**   
  I took the important step of getting married.
