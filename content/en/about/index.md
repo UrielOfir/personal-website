@@ -75,6 +75,45 @@ and my wife was expecting another child.
 
 {{% /blocks/lead %}}
 
+{{% blocks/lead color=purple %}}
+
+**2013-2014**   
+After dedicating many years to the study of Gemara and Rabbi Kook's teachings,   
+and with encouragement of  Rabbi David Giami,   
+a prominent figure at Har Hamor Yeshiva,   
+I embarked on a research journey.   
+My goal was to explore how graduates of the beit midrash,   
+upon transitioning to civilian life,   
+could maintain the same spiritual essence they had cultivated in their studies.
+
+The culmination of my study led me to the realization that the Jewish-Orthodox approach was fundamentally flawed.
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead %}}
+
+**2017**   
+My marriage, which had faced difficulties   
+due to my personal transformation, ended in divorce.
+
+Simultaneously, I began a computer science degree at <a target="_blank" href="https://en.wikipedia.org/wiki/Sapir_Academic_College">Sapir College</a>   
+and relocated to <a target="_blank" href="https://en.wikipedia.org/wiki/Beersheba">Be'er-Sheva</a> .
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead color=white %}}
+
+<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/ashdod_sea.jpg" style="width: 25%"/>   
+
+**2018**   
+My life was abruptly shaken by the sudden passing of my brother.  
+Overwhelmed by grief, I made the difficult decision to suspend my studies,   
+uncertain if I would ever be able to resume them.   
+Instead, I returned to live with my parents in Nir Galim.
+
+{{% /blocks/lead %}}
+
+
 {{% blocks/section %}}
 
 # This is another section
