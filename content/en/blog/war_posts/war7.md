@@ -30,5 +30,5 @@ description: >
 
 <img src="https://github.com/UrielOfir/personal-website/blob/main/assets/images/sad_cat.jpeg?raw=true" style="width: 50%"/>
 
-[קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2584089901778112)
+[קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2584648098388959)
 </div>
