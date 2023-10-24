@@ -103,7 +103,7 @@ and relocated to <a target="_blank" href="https://en.wikipedia.org/wiki/Beersheb
 
 {{% blocks/lead color=white %}}
 
-<img src="https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/ashdod_sea.jpg" style="width: 25%"/>   
+<img src="https://i.ibb.co/Pg26r17/20171127-063034.jpg" style="width: 60%"/>   
 
 **2018**   
 My life was abruptly shaken by the sudden passing of my brother.  
@@ -111,6 +111,7 @@ Overwhelmed by grief, I made the difficult decision to suspend my studies,
 uncertain if I would ever be able to resume them.   
 Instead, I returned to live with my parents in Nir Galim.
 
+(I captured this photo of the sea during the <a target="_blank" href="https://en.wikipedia.org/wiki/Shiva_(Judaism)">Shiva</a> for my brother.)
 {{% /blocks/lead %}}
 
 
