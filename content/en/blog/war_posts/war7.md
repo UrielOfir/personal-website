@@ -6,6 +6,10 @@ description: >
  אני זורק פה על המקלדת תחושות, בלי ניסיון לסדר אותם יותר מדי.
  אשמח מאד לתגובות מכל סוג.
 ---
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0" nonce="uL5SxxKU"></script>
+
 <div dir="rtl">
 
 אני מיואש מהמצב במדינה.   
@@ -31,4 +35,7 @@ description: >
 <img src="https://github.com/UrielOfir/personal-website/blob/main/assets/images/sad_cat.jpeg?raw=true" style="width: 50%"/>
 
 [קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2584648098388959)
+
+<div class="fb-comments" data-href="https://urielofir.website/blog/" data-width="" data-numposts="5"></div>
+
 </div>
