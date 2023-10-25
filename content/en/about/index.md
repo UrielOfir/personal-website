@@ -90,6 +90,14 @@ The culmination of my study led me to the realization that the Jewish-Orthodox a
 
 {{% /blocks/lead %}}
 
+
+{{% blocks/lead %}}
+
+**2015**   
+I welcomed my fifth and youngest child into the world.
+
+{{% /blocks/lead %}}
+
 {{% blocks/lead %}}
 
 **2017**   
@@ -114,10 +122,54 @@ Instead, I returned to live with my parents in Nir Galim.
 (I captured this photo of the sea during the <a target="_blank" href="https://en.wikipedia.org/wiki/Shiva_(Judaism)">Shiva</a> for my brother.)
 {{% /blocks/lead %}}
 
+{{% blocks/lead %}}
 
-{{% blocks/section %}}
+**2019**   
+I resumed my pursuit of a computer science degree   
+and returned to make Be'er-Sheva my home once again.
 
-# This is another section
-{.text-center}
+{{% /blocks/lead %}}
 
+
+{{% blocks/lead %}}
+
+**2020**   
+In the wake of the COVID-19 pandemic,   
+I made the decision to move back in with my parents.
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead %}}
+
+**2021**   
+I secured my first job in programming, but   
+the journey took an unexpected turn   
+when I faced termination after just two months.
+
+At that point, I contemplated giving up on my aspiration   
+to establish myself as a professional in the field of programming.
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead color=gray %}}
+
+**2022**   
+I successfully landed a position at <a target="_blank" href="https://www.abra-it.com/solutions/rnd-solutions/">Abra</a>, a project-focused company.  
+There, I became a part of a team involved in a significant project for Wix.
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color= blue %}}
+
+<div style="text-align: center">
+
+<img src="https://i.ibb.co/D5HzTPf/photo-12-2023-07-10-11-23-38.jpg" style="width: 70%"/>   
+
+#### **2023**   
+#### I took a bold step by founding Ma'akaf, an Israeli open-source community.
+#### However, my professional journey faced another challenge
+#### as I experienced a layoff due to company-wide cutbacks.
+
+
+</div>
 {{% /blocks/section %}}
