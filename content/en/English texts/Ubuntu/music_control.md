@@ -1,5 +1,5 @@
 ---
-title: Controlling Music with Keyboard Shortcuts in Ubuntu
+title: Controlling Music with Keyboard Shortcuts
 weight: 5
 type: "docs"
 description: >
