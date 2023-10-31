@@ -174,8 +174,7 @@ There, I became a part of a team involved in a significant project for Wix.
 
 #### In my personal life, a bright and joyful event took place—
 #### I found a wonderful girlfriend, and together,
-#### we established our home in <a target="_blank" href="https://en.wikipedia.org/wiki/Ma%27ale_Mikhmas">Ma'ale Mikhmas</a>.
-
+#### we established our home in Jerusalem.
 
 </div>
 {{% /blocks/section %}}
