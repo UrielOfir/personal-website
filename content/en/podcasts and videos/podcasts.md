@@ -24,4 +24,12 @@ on people - https://spotifyanchor-web.app.link/e/Rwt7obslbEb
 
 Philosophy - https://open.spotify.com/episode/2voGeiON3LqALs1yjuvMNo?si=WsMfC2RqS4OPyeTrQYgS6Q
 
+2. https://open.spotify.com/episode/41LhYOWJY05ApDn433hVW7?si=MKYC_IeoSEWtuJNxSXseRg
+
+3. https://open.spotify.com/episode/112jxe7lXoBCuzoIwNiUcw?si=II0uQoqzQmGo6iJsBzm-hw
+
+4. https://open.spotify.com/episode/2kZ55qzmFTDvcmYspr4EVT?si=V4Zk80TVR2-bSsnLO0z5Kw
+
+
+
 Random person - https://open.spotify.com/episode/1LW8WHfzgOtelnfwfsVKL7?si=fqNeznccQpWHVLBzeVnNyg
