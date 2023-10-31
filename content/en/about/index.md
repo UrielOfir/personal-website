@@ -172,6 +172,10 @@ There, I became a part of a team involved in a significant project for Wix.
 #### However, my professional journey faced another challenge
 #### as I experienced a layoff due to company-wide cutbacks.
 
+#### In my personal life, a bright and joyful event took place—
+#### I found a wonderful girlfriend, and together,
+#### we established our home in <a target="_blank" href="https://en.wikipedia.org/wiki/Ma%27ale_Mikhmas">Ma'ale Mikhmas</a>.
+
 
 </div>
 {{% /blocks/section %}}
