@@ -15,7 +15,7 @@ The headlines of my life story.
 
 **1986**   
 I came into this world,  inheriting the name of my <a target="_blank" href= "https://www.izkor.gov.il/%D7%90%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%A4%D7%A9%D7%A8%D7%94%D7%95%D7%A4%D7%A8/en_ba59b9f76ee881a07d846908c8ee9b3c"> uncle </a>   
-who tragically lost his life as a soldier in the First Lebanon War.   
+who tragically lost his life as a soldier in the <a target="_blank" href="https://en.wikipedia.org/wiki/1982_Lebanon_War">1982 Lebanon War</a>.   
 
 My early years were spent in <a target="_blank" href="https://en.wikipedia.org/wiki/Nir_Galim">Nir-Galim</a>, Israel,   
 where I embarked on my journey as a young child.
@@ -81,12 +81,14 @@ and my wife was expecting another child.
 After dedicating many years to the study of Gemara and Rabbi Kook's teachings,   
 and with encouragement of  Rabbi David Giami,   
 a prominent figure at Har Hamor Yeshiva,   
-I embarked on a research journey.   
+I embarked on a research journey. 
+
 My goal was to explore how graduates of the beit midrash,   
 upon transitioning to civilian life,   
 could maintain the same spiritual essence they had cultivated in their studies.
 
-The culmination of my study led me to the realization that the Jewish-Orthodox approach was fundamentally flawed.
+The culmination of my study led me to the realization that   
+the Jewish-Orthodox approach was fundamentally flawed.
 
 {{% /blocks/lead %}}
 
