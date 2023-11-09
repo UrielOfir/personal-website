@@ -22,6 +22,8 @@ My memories from Gush-Katif- https://spotifyanchor-web.app.link/e/yuuxMLglbEb
 on people - https://spotifyanchor-web.app.link/e/Rwt7obslbEb
 
 
+osim Tochna. kod patuch.
+
 Philosophy - https://open.spotify.com/episode/2voGeiON3LqALs1yjuvMNo?si=WsMfC2RqS4OPyeTrQYgS6Q
 
 2. https://open.spotify.com/episode/41LhYOWJY05ApDn433hVW7?si=MKYC_IeoSEWtuJNxSXseRg
