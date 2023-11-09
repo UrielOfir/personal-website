@@ -1,8 +1,8 @@
 ---
 title: Podcasts and Videos
 linkTitle: Podcasts and Videos
-menu: {main: {weight: 20}}
-weight: 20
+menu: {main: {weight: 30}}
+weight: 30
 type: "docs"
 ---
 I'm excited to share some of the cool podcasts and videos I've been up to.
