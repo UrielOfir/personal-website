@@ -4,8 +4,19 @@ weight: 20
 type: "docs"
 ---
 
-English podcast- 
+# Podcast Interviews: Exploring Diverse Perspectives
 
+Over the course of my journey, I've had the privilege of being a guest on various podcasts, delving into a myriad of subjects that resonate with my experiences and passions.
+
+## Sustain - Nurturing Open Source Culture
+
+In a captivating episode of Sustain, I had the opportunity to share insights into Ma’akaf, an open source community I founded and manage in Israel. The discussion navigates through the intricacies of Ma’akaf's approach, emphasizing the significance of members actively contributing to the community's growth. I shed light on our unique initiatives, such as the "open source party," designed to encourage participants to contribute, collaborate, and enhance their skills. If you're curious about the dynamics of sustaining open source culture and fostering community engagement, this episode is a must-listen.
+
+[Listen to the episode here](https://podcast.sustainoss.org/176)
+
+
+English podcast- 
+   
    Sustain - https://podcast.sustainoss.org/176
 
 
