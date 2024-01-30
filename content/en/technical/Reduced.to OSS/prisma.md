@@ -6,7 +6,8 @@ description: >
   Simplifying Database Work for Developers
 ---
 
-Prisma is an open-source database toolkit that makes it easier for developers to interact with their databases. It serves as an intermediary layer between the database and the application code, offering several tools and features that simplify database operations. In this article, I will provide a breakdown of what Prisma does, and to give you a clearer understanding, I'll illustrate its use with practical examples from the "Reduced.to" project. These examples will demonstrate how Prisma can be effectively utilized in a real-world application, showcasing its functionality and ease of use in a TypeScript-based project.
+Prisma is an open-source database toolkit that makes it easier for developers to interact with their databases. It serves as an intermediary layer between the database and the application code, offering several tools and features that simplify database operations.  
+In this article, I will provide a breakdown of what Prisma does, and to give you a clearer understanding, I'll illustrate its use with practical examples from the "Reduced.to" project. These examples will demonstrate how Prisma can be effectively utilized in a real-world application, showcasing its functionality and ease of use in a TypeScript-based project.
 
 1. ### ORM (Object-Relational Mapping)  
    **Simplifies Data Access:** Prisma is often described as an ORM (Object-Relational Mapping) tool. It allows developers to write database queries using simple and straightforward JavaScript or TypeScript code, rather than complex SQL queries.  
@@ -51,9 +52,10 @@ model Link {
 }
 ```
 #### Explanation:
-**Model Declaration:** model Link declares a new model corresponding to a table in the database.
-**Fields:** Each line under the model declaration represents a column in the Link table with its data type and constraints (e.g., @id, @default, @unique).
-**Relations:** The user field establishes a relation to the User model. The onDelete: Cascade part indicates that if the related user is deleted, associated links will also be deleted.
+**Model Declaration:** model Link declares a new model corresponding to a table in the database.  
+**Fields:** Each line under the model declaration represents a column in the Link table with its data type and constraints (e.g., @id, @default, @unique).  
+**Relations:** The user field establishes a relation to the User model.  
+**The onDelete:** Cascade part indicates that if the related user is deleted, associated links will also be deleted.  
 **Indexes:** The @@index annotations are used to optimize queries based on these fields.
 
 ### Using Prisma Client: Deleting a Link
