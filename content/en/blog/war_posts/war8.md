@@ -26,9 +26,9 @@ description: >
 ימים כמו היום הזה,
 הם ימים מחורבנים.
 
-<img src="https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/405115230_2603234046530364_5569732132302998335_n.jpg?stp=dst-jpg_p180x540&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GDRDpX2HWeIAX9jHZZE&_nc_ht=scontent.ftlv15-1.fna&oh=00_AfDmmOXNewnquU4PpzD94sAqaVjiYYwxtPe-No2upz7X4Q&oe=6565575C" style="width: 50%"/>
+<img src="https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/405115230_2603234046530364_5569732132302998335_n.jpg](https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/405115230_2603234046530364_5569732132302998335_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Ngs5kyPzdY8AX89xMcy&_nc_ht=scontent.ftlv15-1.fna&oh=00_AfBaXhzc1QrmHy1PEXNyePofD3IexhoJz3JNfXUeE_Z0ZA&oe=65BE549C)https://scontent.ftlv15-1.fna.fbcdn.net/v/t39.30808-6/405115230_2603234046530364_5569732132302998335_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Ngs5kyPzdY8AX89xMcy&_nc_ht=scontent.ftlv15-1.fna&oh=00_AfBaXhzc1QrmHy1PEXNyePofD3IexhoJz3JNfXUeE_Z0ZA&oe=65BE549C" style="width: 50%"/>
 
-[קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2584648098388959)
+[קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2603234723196963)
 
 <div class="fb-comments" data-href="https://urielofir.website/blog/" data-width="" data-numposts="5"></div>
 
