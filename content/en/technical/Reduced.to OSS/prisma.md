@@ -1,5 +1,5 @@
 ---
-title: "Prisma"
+title: "Prisma - ORM"
 weight: 1
 type: "docs"
 description: >
