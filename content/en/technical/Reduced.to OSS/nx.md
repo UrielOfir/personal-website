@@ -44,5 +44,7 @@ To understand dependency graphs in "Reduced.to", we use the command nx dep-graph
 Here we can see the dependency graph in 31/1/24:   
 ![dependency graph](https://raw.githubusercontent.com/UrielOfir/personal-website/main/assets/images/dependency_graph.png)
 
-Conclusion
-Nx has proven to be a game-changer in the "Reduced.to" project, significantly enhancing scalability, consistency, and efficiency. Its suite of features caters perfectly to the demands of modern software development, especially in settings where complexity and code reusability are paramount. As we continue to embrace Nx, it’s clear that this tool is not just about managing code; it’s about reshaping the development experience.
+### Conclusion
+To really get what Nx is all about, you need to be pretty familiar with how big projects are built and run.   
+Right now, I'm still learning and might not see all the issues Nx solves. But as I gain more experience, I'm sure I'll start to understand just how valuable this tool is.   
+Either way, diving into the 'Reduced.to' project has been a great way to meet this interesting tech and see how much it helps with making software.
