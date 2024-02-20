@@ -1,6 +1,6 @@
 ---
 title: Reduced.to OSS
-weight: 1
+weight: 2
 type: "docs"
 description: >
   My Journey Contributing to an Open Source Project
