@@ -22,7 +22,7 @@ English podcast-
 
 Hebrew podcasts-
 
-My story from September 22 to February 24 - https://podcasters.spotify.com/hisway/episodes/21-e2g9vdl
+My story from September 22 to February 24 - https://open.spotify.com/episode/18XZj1qgzLCl9CWTuOhg6Z?si=WvpxMlOvRQu7S8vRWLxYUw
 
 Geekonomy- https://geekonomy.net/2021/08/18/geekonomy456/,
 
