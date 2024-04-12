@@ -15,6 +15,8 @@ weight: 1
 המסיבה בסגנון 'הביאו את השפע', מוזמנים לעדכן בטבלה המשותפת אם אתם מביאים משהו:  
 [טבלה משותפת הביאו את השפע](https://docs.google.com/spreadsheets/d/1pJqc0TaGf33hH0M8VE7Su1kGmFBEQrWJ1um5xoU5zjM/edit?usp=sharing)
 
+
+אוריאל יגיע עם המפוחית שלו, לבנת עם האקורדיון, ונשמח שגם אתם תגיעו עם כלי נגינה 🙂  
 יהיה כיף!
 
 
