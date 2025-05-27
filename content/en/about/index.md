@@ -6,7 +6,7 @@ menu: {main: {weight: 10}}
 
 {{% blocks/cover title="About Uriel Ofir" image_anchor="bottom" height="auto" %}}
 
-The headlines of my life story.
+The headlines of my life story, from my perspective.
 {.mt-5}
 
 {{% /blocks/cover %}}
@@ -14,11 +14,11 @@ The headlines of my life story.
 {{% blocks/lead %}}
 
 **1986**   
-I came into this world,  inheriting the name of my <a target="_blank" href= "https://www.izkor.gov.il/%D7%90%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%A4%D7%A9%D7%A8%D7%94%D7%95%D7%A4%D7%A8/en_ba59b9f76ee881a07d846908c8ee9b3c"> uncle </a>   
+I popped into the world,  inheriting the name of my <a target="_blank" href= "https://www.izkor.gov.il/%D7%90%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%A4%D7%A9%D7%A8%D7%94%D7%95%D7%A4%D7%A8/en_ba59b9f76ee881a07d846908c8ee9b3c"> uncle </a>   
 who tragically lost his life as a soldier in the <a target="_blank" href="https://en.wikipedia.org/wiki/1982_Lebanon_War">1982 Lebanon War</a>.   
 
 My early years were spent in <a target="_blank" href="https://en.wikipedia.org/wiki/Nir_Galim">Nir-Galim</a>, Israel,   
-where I embarked on my journey as a young child.
+where my adventure began as a young child.
 
 
 {{% /blocks/lead %}}
@@ -26,16 +26,15 @@ where I embarked on my journey as a young child.
 {{% blocks/lead color=gray %}}
 
 **2001**   
-My high school journey commenced at <a target="_blank" href="https://yatmal.tik-tak.net/english/">Yeshiva-Tichonit Machon-Lev</a>,   
-a specialized institution for intellectually gifted religious students,   
-dedicated to the study of Torah as well as technology and science.
+My high school journey commenced at <a target="_blank" href="https://yatmal.tik-tak.net/english/">Yeshiva-Tichonit Machon-Lev</a>.   
+It was a pretty unique place for religious students who were into both Torah and tech/science.
 
 {{% /blocks/lead %}}
 
 {{% blocks/lead %}}
 
 **2004**   
-I embarked on my long years of Torah study journey at <a target="_blank" href="https://en.wikipedia.org/wiki/Har_Hamor"> Yeshivat Har-Hamor</a>,   
+Then came the years of diving deep into Torah at <a target="_blank" href="https://en.wikipedia.org/wiki/Har_Hamor"> Yeshivat Har-Hamor</a>,   
 a Religious Zionist yeshiva established in 1997 as an offshoot of <a target="_blank" href="https://en.wikipedia.org/wiki/Mercaz_HaRav">Yeshivat Mercaz HaRav</a>.  
 This institution, led by <a target="_blank" href="https://en.wikipedia.org/wiki/Zvi_Thau">Rabbi Zvi Thau</a> as its president,   
 is dedicated to perpetuating the teachings and principles of   
@@ -81,14 +80,13 @@ and my wife was expecting another child.
 After dedicating many years to the study of Gemara and Rabbi Kook's teachings,   
 and with encouragement of  Rabbi David Giami,   
 a prominent figure at Har Hamor Yeshiva,   
-I embarked on a research journey. 
+I started some research. 
 
 My goal was to explore how graduates of the beit midrash,   
 upon transitioning to civilian life,   
-could maintain the same spiritual essence they had cultivated in their studies.
+could keep that spiritual spark alive.
 
-The culmination of my study led me to the realization that   
-the Jewish-Orthodox approach was fundamentally flawed.
+Turns out, my study led me to realize the traditional Jewish-Orthodox approach had some fundamental flaws.
 
 {{% /blocks/lead %}}
 
@@ -117,7 +115,7 @@ and relocated to <a target="_blank" href="https://en.wikipedia.org/wiki/Beersheb
 
 **2018**   
 My life was abruptly shaken by the sudden passing of my brother.  
-Overwhelmed by grief, I made the difficult decision to suspend my studies,   
+I was pretty heartbroken and decided to hit pause on my studies,   
 uncertain if I would ever be able to resume them.   
 Instead, I returned to live with my parents in Nir Galim.
 
@@ -148,8 +146,7 @@ I secured my first job in programming, but
 the journey took an unexpected turn   
 when I faced termination after just two months.
 
-At that point, I contemplated giving up on my aspiration   
-to establish myself as a professional in the field of programming.
+Honestly, I almost gave up on my dream of being a pro programmer then.
 
 {{% /blocks/lead %}}
 
@@ -157,7 +154,7 @@ to establish myself as a professional in the field of programming.
 
 **2022**   
 I successfully landed a position at <a target="_blank" href="https://www.abra-it.com/solutions/rnd-solutions/">Abra</a>, a project-focused company.  
-There, I became a part of a team involved in a significant project for Wix.
+There, I oined a cool team working on a big project for Wix.
 
 {{% /blocks/lead %}}
 
@@ -174,7 +171,21 @@ There, I became a part of a team involved in a significant project for Wix.
 
 #### In my personal life, a bright and joyful event took place—
 #### I found a wonderful girlfriend, and together,
-#### we established our home in Jerusalem.
+#### we established our home near Jerusalem.
 
 </div>
 {{% /blocks/section %}}
+
+{{% blocks/lead %}}
+
+**2024**  
+Got married again! My wife and I are now settled near Jerusalem.
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead %}}
+
+**2025**  
+Kicked off a new chapter working as a **COBOL programmer at Mizrachi Bank.**
+
+{{% /blocks/lead %}}
