@@ -48,7 +48,9 @@ languages:
     languageName: English
     title: Uriel Ofir
     params:
-      description: A Docsy example site
+      description: Uriel Ofir's personal website, showcasing his work, projects, and interests.
+      ui:
+        showLightDarkModeMenu: true
   # cSpell:disable
 
 markup:
