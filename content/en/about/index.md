@@ -158,7 +158,7 @@ There, I oined a cool team working on a big project for Wix.
 
 {{% /blocks/lead %}}
 
-{{% blocks/section color= blue %}}
+{{% blocks/lead color= blue %}}
 
 <div style="text-align: center">
 
@@ -174,7 +174,7 @@ There, I oined a cool team working on a big project for Wix.
 #### we established our home near Jerusalem.
 
 </div>
-{{% /blocks/section %}}
+{{% /blocks/lead %}}
 
 {{% blocks/lead %}}
 
@@ -183,9 +183,11 @@ Got married again! My wife and I are now settled near Jerusalem.
 
 {{% /blocks/lead %}}
 
-{{% blocks/lead %}}
+{{% blocks/lead color=purple %}}
+
 
 **2025**  
 Kicked off a new chapter working as a **COBOL programmer at Mizrachi Bank.**
+
 
 {{% /blocks/lead %}}
