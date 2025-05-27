@@ -169,25 +169,23 @@ There, I oined a cool team working on a big project for Wix.
 #### However, my professional journey faced another challenge
 #### as I experienced a layoff due to company-wide cutbacks.
 
-#### In my personal life, a bright and joyful event took place—
-#### I found a wonderful girlfriend, and together,
-#### we established our home near Jerusalem.
-
 </div>
-{{% /blocks/lead %}}
-
-{{% blocks/lead %}}
-
-**2024**  
-Got married again! My wife and I are now settled near Jerusalem.
-
 {{% /blocks/lead %}}
 
 {{% blocks/lead color=purple %}}
 
+<img src="https://i.ibb.co/JkzwB4w/434407934-2696206270566474-9009988706277916422-n.jpg" style="width: 40%"/>  
+
+**2024**  
+**Got married again!** My wife and I are now settled near Jerusalem.
+
+{{% /blocks/lead %}}
+
+{{% blocks/lead %}}
+
 
 **2025**  
-Kicked off a new chapter working as a **COBOL programmer at Mizrachi Bank.**
+Kicked off a new chapter working as a COBOL programmer at Mizrachi Bank.
 
 
 {{% /blocks/lead %}}
