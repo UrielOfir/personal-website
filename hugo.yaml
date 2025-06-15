@@ -177,10 +177,10 @@ params:
         icon: fab fa-github
         desc: Development takes place here!
 
-  # Google Analytics configuration
-  services:
-    googleAnalytics:
-      id: G-5BMKYN51XV  # Replace with your Google Analytics 4 Measurement ID
+# Google Analytics configuration
+services:
+  googleAnalytics:
+    id: G-5BMKYN51XV  # Replace with your Google Analytics 4 Measurement ID
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
