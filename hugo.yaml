@@ -178,11 +178,9 @@ params:
         desc: Development takes place here!
 
   # Google Analytics configuration
-  googleAnalytics:
-    id: G-5BMKYN51XV  # Replace with your Google Analytics 4 Measurement ID
-    anonymizeIP: true
-    respectDoNotTrack: true
-    useSessionStorage: true
+  services:
+    googleAnalytics:
+      id: G-5BMKYN51XV  # Replace with your Google Analytics 4 Measurement ID
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
