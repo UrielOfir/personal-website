@@ -166,16 +166,36 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
+      - name: YouTube
+        url: https://www.youtube.com/@UrielOfir 
+        icon: fa-brands fa-youtube
+        desc: My YouTube channel
       - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
+        url: https://www.linkedin.com/in/uriel-ofir/
+        icon: fa-brands fa-linkedin
+        desc: Connect with me on LinkedIn
+      - name: TikTok
+        url: https://www.tiktok.com/@urielofir
+        icon: fa-brands fa-tiktok
+        desc: My TikTok profile
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
         url: https://github.com/UrielOfir/personal-website
-        icon: fab fa-github
+        icon: fa-brands fa-github
         desc: Development takes place here!
+      - name: Facebook
+        url: https://www.facebook.com/urielofir86
+        icon: fa-brands fa-facebook
+        desc: My Facebook profile
+      - name: x
+        url: https://x.com/OfirUriel
+        icon: fa-brands fa-x-twitter
+        desc: My X profile
+      - name: Instagram
+        url: https://www.instagram.com/uriel__ofir/
+        icon: fa-brands fa-instagram
+        desc: My Instagram profile
 
 # Google Analytics configuration
 services:
