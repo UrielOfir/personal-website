@@ -1,6 +1,6 @@
 ---
 title: Ubuntu - Linux
-weight: 4
+weight: 40
 type: "docs"
 description: >
   My experience with Ubuntu OS.

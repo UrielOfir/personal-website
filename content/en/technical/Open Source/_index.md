@@ -1,6 +1,6 @@
 ---
 title: Open source
-weight: 1
+weight: 20
 type: "docs"
 description: >
   My thoughts about Open Source

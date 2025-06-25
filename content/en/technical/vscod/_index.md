@@ -1,6 +1,6 @@
 ---
 title: VScode
-weight: 3
+weight: 50
 type: "docs"
 description: >
   My experience with VScode.
