@@ -1,6 +1,6 @@
 ---
 title: "Stop Misusing Open Source Contributions!"
-weight: 1
+weight: 10
 type: "docs"
 description: >
   Exploring the impact of meaningless pull requests on open source
