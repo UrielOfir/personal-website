@@ -189,3 +189,5 @@ Kicked off a new chapter working as a COBOL programmer at Mizrachi Bank.
 
 
 {{% /blocks/lead %}}
+
+{{< giscus >}}

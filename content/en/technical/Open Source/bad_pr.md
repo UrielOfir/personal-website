@@ -13,3 +13,5 @@ Contributing to open source is more than just actions on GitHub. It's not a shor
 For a deeper look into the misuse of open source contributions, consider the Express.js Spam PRs Incident. This event, triggered by a popular YouTube tutorial, led to a flood of spam PRs on the Express.js project repo, underscoring the pressure on job seekers to contribute to open source in any way possible. Read more about it here: [Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions](https://socket.dev/blog/express-js-spam-prs-commoditization-of-open-source).
 
 If you're genuinely interested in making a difference, I invite you to join the [Maakaf community](https://maakaf.netlify.app/). Together, we can advance the open source movement in Israel.
+
+{{< giscus >}}

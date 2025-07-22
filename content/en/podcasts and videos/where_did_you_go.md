@@ -21,3 +21,5 @@ The podcast is conducted in Hebrew.
 ### Watch on YouTube
 
 - Some episodes are available on <a href="https://youtube.com/playlist?list=PLVJp0Icd_QJ9eQz9Q6PiNG4t98hRhHHpb&si=EB_20Nt12N3ppRZ8" target="_blank" rel="noopener noreferrer">YouTube playlist</a>.
+
+{{< giscus >}}

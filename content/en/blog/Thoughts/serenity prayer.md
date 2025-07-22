@@ -30,3 +30,5 @@ And for a moment in this odyssey, I express my gratitude.
 (Thus, I conclude this piece with yet another platitude...)
 
 [Link to the original Hebrew post on Facebook](https://www.facebook.com/urielofir86/posts/2680451638808604)
+
+{{< giscus >}}

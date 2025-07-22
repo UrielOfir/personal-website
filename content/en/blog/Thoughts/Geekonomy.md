@@ -19,3 +19,5 @@ In these trying times, I find solace in the fact that the podcast continues to p
 I also invite you to share your favorite episodes in the comments as we celebrate this momentous 800th episode!
 
 [Link to the original Hebrew post on Facebook](https://www.facebook.com/groups/geekonomydotnet/posts/3058864730915491/)
+
+{{< giscus >}}

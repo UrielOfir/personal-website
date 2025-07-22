@@ -1,0 +1,20 @@
+<!-- Giscus comments start -->
+<div class="giscus-comments">
+    <script src="https://giscus.app/client.js"
+            data-repo="{{ .Get "repo" | default "UrielOfir/personal-website" }}"
+            data-repo-id="{{ .Get "repo-id" | default "R_kgDOOyyeNg" }}"
+            data-category="{{ .Get "category" | default "General" }}"
+            data-category-id="{{ .Get "category-id" | default "DIC_kwDOOyyeNs4CrwBe" }}"
+            data-mapping="{{ .Get "mapping" | default "pathname" }}"
+            data-strict="{{ .Get "strict" | default "0" }}"
+            data-reactions-enabled="{{ .Get "reactions-enabled" | default "1" }}"
+            data-emit-metadata="{{ .Get "emit-metadata" | default "1" }}"
+            data-input-position="{{ .Get "input-position" | default "top" }}"
+            data-theme="{{ .Get "theme" | default "preferred_color_scheme" }}"
+            data-lang="{{ .Get "lang" | default "en" }}"
+            data-loading="{{ .Get "loading" | default "lazy" }}"
+            crossorigin="anonymous"
+            async>
+    </script>
+</div>
+<!-- Giscus comments end -->

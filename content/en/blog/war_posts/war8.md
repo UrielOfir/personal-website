@@ -30,6 +30,5 @@ description: >
 
 [קישור לפוסט בפייסבוק](https://www.facebook.com/urielofir86/posts/2603234723196963)
 
-<div class="fb-comments" data-href="https://urielofir.website/blog/" data-width="" data-numposts="5"></div>
 
 </div>

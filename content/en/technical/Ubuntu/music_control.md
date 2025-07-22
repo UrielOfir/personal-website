@@ -24,3 +24,5 @@ Two playerctl commands that you might find particularly useful are:
 To streamline music control, consider adding these commands as custom keyboard shortcuts in Ubuntu. For detailed instructions, consult the [Ubuntu documentation on setting keyboard shortcuts](https://help.ubuntu.com/stable/ubuntu-help/keyboard-shortcuts-set.html.en).
 
 With these keyboard shortcuts, you can effortlessly manage your music without leaving your current workspace or application. Enjoy a more convenient and immersive music experience on Ubuntu.
+
+{{< giscus >}}

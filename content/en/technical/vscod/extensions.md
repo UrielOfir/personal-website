@@ -9,3 +9,5 @@ description: >
 https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+
+{{< giscus >}}

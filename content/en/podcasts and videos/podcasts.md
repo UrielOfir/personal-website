@@ -46,3 +46,6 @@ Philosophy - https://open.spotify.com/episode/2voGeiON3LqALs1yjuvMNo?si=WsMfC2Rq
 
 
 Random person - https://open.spotify.com/episode/1LW8WHfzgOtelnfwfsVKL7?si=fqNeznccQpWHVLBzeVnNyg
+
+
+{{< giscus >}}

@@ -30,3 +30,5 @@ Understanding the File System: How does the mainframe file system work? What are
 I admit I feel like I'm at a stage where I barely know what to ask, but my passion to learn and explore is strong. I'm actively seeking high-quality information sources: blogs, books, videos, and of course, connections with professionals who can light my way.
 
 So, if you know this world, or are on a similar journey, I'd love to hear from you! How do you deal with that "lost" feeling in the initial stages? Join me on this fascinating journey into the depths of the mainframe.
+
+{{< giscus >}}
