@@ -178,6 +178,10 @@ params:
         url: https://www.tiktok.com/@urielofir
         icon: fa-brands fa-tiktok
         desc: My TikTok profile
+      - name: Telegram
+        url: https://t.me/thinking_together_israel
+        icon: fa-brands fa-telegram
+        desc: Join our Telegram channel
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
