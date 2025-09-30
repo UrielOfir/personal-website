@@ -7,7 +7,4 @@
 
 [build.environment]
   HUGO_EXTENDED = "true"
-  NETLIFY_USE_JAMMY = "true"
-
-[context.production.environment]
-  HUGO_ENV = "production"
+  NODE_VERSION = "20"
