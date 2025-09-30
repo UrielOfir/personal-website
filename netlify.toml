@@ -4,7 +4,3 @@
 [build]
   publish = "public"
   command = "hugo"
-
-[build.environment]
-  HUGO_EXTENDED = "true"
-  NODE_VERSION = "20"
