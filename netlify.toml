@@ -6,10 +6,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
   HUGO_EXTENDED = "true"
 
 [context.production.environment]
-  HUGO_VERSION = "0.111.3"  # example of a known working version
   HUGO_ENV = "production"
-  NODE_VERSION = "22"
