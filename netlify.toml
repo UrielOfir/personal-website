@@ -6,7 +6,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.126.1" # pick a version Netlify supports
+  HUGO_VERSION = "0.111.3"
   HUGO_EXTENDED = "true"
 
 [context.production.environment]
